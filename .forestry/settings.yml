@@ -7,7 +7,6 @@ sections:
 - type: document
   path: portfolio/index.md
   label: Homepage
-  read_only: false
   templates:
   - settings
 - type: directory
